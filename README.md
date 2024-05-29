@@ -1,4 +1,4 @@
-# Real-Time Bidding Platform API
+# Bidding Platform
 
 ## Setup
 
